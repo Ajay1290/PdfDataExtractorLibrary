@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="System.Text.Json" />
+    <None Remove="iTextSharp" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="System.Text.Json" Version="5.0.2" />
+    <PackageReference Include="iTextSharp" Version="5.5.13.2" />
+  </ItemGroup>
+</Project>

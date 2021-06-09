@@ -1,0 +1,12 @@
+/Users/apple/Desktop/PdfDataExtractor/PdfDataExtractor/bin/Debug/net5.0/PdfDataExtractor.deps.json
+/Users/apple/Desktop/PdfDataExtractor/PdfDataExtractor/bin/Debug/net5.0/PdfDataExtractor.dll
+/Users/apple/Desktop/PdfDataExtractor/PdfDataExtractor/bin/Debug/net5.0/ref/PdfDataExtractor.dll
+/Users/apple/Desktop/PdfDataExtractor/PdfDataExtractor/bin/Debug/net5.0/PdfDataExtractor.pdb
+/Users/apple/Desktop/PdfDataExtractor/PdfDataExtractor/obj/Debug/net5.0/PdfDataExtractor.csprojAssemblyReference.cache
+/Users/apple/Desktop/PdfDataExtractor/PdfDataExtractor/obj/Debug/net5.0/PdfDataExtractor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/PdfDataExtractor/PdfDataExtractor/obj/Debug/net5.0/PdfDataExtractor.AssemblyInfoInputs.cache
+/Users/apple/Desktop/PdfDataExtractor/PdfDataExtractor/obj/Debug/net5.0/PdfDataExtractor.AssemblyInfo.cs
+/Users/apple/Desktop/PdfDataExtractor/PdfDataExtractor/obj/Debug/net5.0/PdfDataExtractor.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/PdfDataExtractor/PdfDataExtractor/obj/Debug/net5.0/PdfDataExtractor.dll
+/Users/apple/Desktop/PdfDataExtractor/PdfDataExtractor/obj/Debug/net5.0/ref/PdfDataExtractor.dll
+/Users/apple/Desktop/PdfDataExtractor/PdfDataExtractor/obj/Debug/net5.0/PdfDataExtractor.pdb

@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{7AFED615-966B-4E79-9C5D-05FDCFD616BD}|Default">
+  <MonoDevelop.Ide.ItemProperties.ToTestPdfDataExtractor FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PdfDataExtractor/Class1.cs">
+    <Files>
+      <File FileName="ToTestPdfDataExtractor/Program.cs" Line="15" Column="1" />
+      <File FileName="PdfDataExtractor/Class1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PdfDataExtractor" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
